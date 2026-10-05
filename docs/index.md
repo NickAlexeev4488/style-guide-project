@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# Руководство по стилю документации
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Это руководство устанавливает единые правила создания и оформления документации учебного программного проекта в MkDocs.
 
-## Commands
+Стайлгайд предназначен для студентов, преподавателей и новых участников команды. Он помогает создавать понятные страницы, поддерживать единую терминологию, правильно оформлять команды и примеры, а также проверять документацию перед публикацией.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Разделы руководства
 
-## Project layout
+- [Основные правила](rules.md)
+- [Структура стайлгайда](structure.md)
+- [Полный стайлгайд](style-guide.md)
+- [Доступность документации](accessibility.md)
+- [Тестирование стайлгайда](testing.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Как использовать руководство
+
+Перед созданием новой страницы ознакомьтесь с основными правилами и выберите подходящую структуру. Во время написания проверяйте терминологию, заголовки, ссылки, команды и изображения. Перед публикацией выполните локальную и автоматическую проверку проекта.

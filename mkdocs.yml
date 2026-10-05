@@ -1,1 +1,20 @@
-site_name: My Docs
+site_name: Руководство по стилю документации
+site_url: https://NickAlexeev4488.github.io/style-guide-project/
+repo_url: https://github.com/NickAlexeev4488/style-guide-project
+repo_name: style-guide-project
+
+theme:
+  name: material
+  language: ru
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.integrate
+
+nav:
+  - Главная: index.md
+  - Общие правила: rules.md
+  - Структура стайлгайда: structure.md
+  - Стайлгайд: style-guide.md
+  - Тестирование: testing.md
